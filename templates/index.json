@@ -14,16 +14,6 @@
         "button_link": "shopify:\/\/collections\/all"
       }
     },
-    "feature-row": {
-      "type": "feature-row",
-      "settings": {
-        "layout": "left",
-        "title": "By fans, for fans.",
-        "text": "<p>Can't find your favorite driver on here? Send us an email and we'll have you covered.<\/p>",
-        "button_label": "CONTACT US",
-        "button_link": "shopify:\/\/pages\/contact"
-      }
-    },
     "feature-columns": {
       "type": "feature-columns",
       "blocks": {
@@ -64,7 +54,7 @@
         "feature-columns-2"
       ],
       "settings": {
-        "title": "",
+        "title": "Best Sellers",
         "align_text": "left"
       }
     },
@@ -162,15 +152,26 @@
       "settings": {
         "section_height": "medium"
       }
+    },
+    "feature-row": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/imge_6483441_4.jpg",
+        "layout": "left",
+        "title": "By fans, for fans.",
+        "text": "<p>Can't find your favorite driver on here? Send us an email and we'll have you covered.<\/p>",
+        "button_label": "CONTACT US",
+        "button_link": "shopify:\/\/pages\/contact"
+      }
     }
   },
   "order": [
     "hero-1",
-    "feature-row",
     "feature-columns",
     "collection",
     "hero-2",
     "quotes",
-    "image-bar"
+    "image-bar",
+    "feature-row"
   ]
 }
