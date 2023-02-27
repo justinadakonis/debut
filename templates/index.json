@@ -14,6 +14,17 @@
         "button_link": "shopify:\/\/collections\/all"
       }
     },
+    "collection": {
+      "type": "collection",
+      "settings": {
+        "title": "Best Sellers",
+        "collection": "",
+        "grid": 3,
+        "rows": 1,
+        "show_vendor": false,
+        "show_view_all": false
+      }
+    },
     "feature-columns": {
       "type": "feature-columns",
       "blocks": {
@@ -56,17 +67,6 @@
       "settings": {
         "title": "Best Sellers",
         "align_text": "left"
-      }
-    },
-    "collection": {
-      "type": "collection",
-      "settings": {
-        "title": "Featured collection",
-        "collection": "",
-        "grid": 4,
-        "rows": 2,
-        "show_vendor": false,
-        "show_view_all": false
       }
     },
     "hero-2": {
@@ -167,8 +167,8 @@
   },
   "order": [
     "hero-1",
-    "feature-columns",
     "collection",
+    "feature-columns",
     "hero-2",
     "quotes",
     "image-bar",
