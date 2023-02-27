@@ -9,7 +9,7 @@
         "hero_size": "large",
         "text_size": "large",
         "title": "Welcome to Velocity Racing Supply",
-        "text": "<p>The home for motorsports merchandise.<\/p>",
+        "text": "<p><em><strong>The home for motorsports merchandise.<\/strong><\/em><\/p>",
         "button_label": "SHOP NOW",
         "button_link": "shopify:\/\/collections\/all"
       }
@@ -18,10 +18,10 @@
       "type": "feature-row",
       "settings": {
         "layout": "left",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-        "button_label": "",
-        "button_link": ""
+        "title": "By fans, for fans.",
+        "text": "<p>Can't find your favorite driver on here? Send us an email and we'll have you covered.<\/p>",
+        "button_label": "CONTACT US",
+        "button_link": "shopify:\/\/pages\/contact"
       }
     },
     "feature-columns": {
